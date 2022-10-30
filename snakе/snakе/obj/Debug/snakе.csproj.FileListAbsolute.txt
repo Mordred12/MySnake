@@ -1,0 +1,8 @@
+C:\Users\magas\Desktop\c# test\snakе\snakе\bin\Debug\snakе.exe.config
+C:\Users\magas\Desktop\c# test\snakе\snakе\bin\Debug\snakе.exe
+C:\Users\magas\Desktop\c# test\snakе\snakе\bin\Debug\snakе.pdb
+C:\Users\magas\Desktop\c# test\snakе\snakе\obj\Debug\snakе.csproj.AssemblyReference.cache
+C:\Users\magas\Desktop\c# test\snakе\snakе\obj\Debug\snakе.csproj.SuggestedBindingRedirects.cache
+C:\Users\magas\Desktop\c# test\snakе\snakе\obj\Debug\snakе.csproj.CoreCompileInputs.cache
+C:\Users\magas\Desktop\c# test\snakе\snakе\obj\Debug\snakе.exe
+C:\Users\magas\Desktop\c# test\snakе\snakе\obj\Debug\snakе.pdb
